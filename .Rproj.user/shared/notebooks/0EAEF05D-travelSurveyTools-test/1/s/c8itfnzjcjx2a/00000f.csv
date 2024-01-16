@@ -1,4 +1,0 @@
-"0","hts_summary(hts_data = list('hh' = hh, 'person' = person, 'day' = day, 'trip' = trip, 'vehicle' = vehicle), summarize_var = 'age', summarize_by = 'employment', variables_dt = variable_list)"
-"2","Error in .(variable, hh, person, vehicle, trip, day) : 
-  could not find function "".""
-"
